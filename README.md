@@ -1,5 +1,7 @@
 # Описание проекта
-Простой код написанный на C++ выводяший сообшение: Hello, World. I am 23 years old. My name: John. And i from USA
+Простой код написанный на C++ выводяший сообшение:
+Hello, World. I am 23 years old.
+My name: John and i'm from USA
 
 # Цель
 
